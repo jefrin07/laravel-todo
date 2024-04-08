@@ -1,0 +1,27 @@
+.login-form {
+    margin-top: 100px; /* Adjust as needed */
+}
+
+.login-form form {
+    background: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.login-form h2 {
+    margin-bottom: 20px;
+}
+
+.login-form .form-group {
+    margin-bottom: 20px;
+}
+
+.login-form .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.login-form .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
